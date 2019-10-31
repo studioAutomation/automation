@@ -1,8 +1,9 @@
 {
   "name": "BlankProcess3",
   "description": "Blank Process",
-  "main": "Main.xaml",
+  "main": "sdfd.xaml",
   "dependencies": {
+    "AForge": "[2.2.5]",
     "UiPath.Excel.Activities": "[2.7.1-ce]",
     "UiPath.Mail.Activities": "[1.7.1-ce]",
     "UiPath.System.Activities": "[19.10.0-ce]",
